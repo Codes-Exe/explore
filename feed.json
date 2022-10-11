@@ -19,7 +19,7 @@
           
             "apache/incubator-mxnet",
           
-            "eclipse/deeplearning4j",
+            "deeplearning4j/deeplearning4j",
           
             "sdhnshu/Pytorch-Model-Zoo",
           
@@ -1253,7 +1253,7 @@
           
             "grafana/k6",
           
-            "loads/molotov",
+            "tarekziade/molotov",
           
             "locustio/locust",
           
@@ -1333,7 +1333,7 @@
           
             "tensorflow/tensorflow",
           
-            "activeloopai/Hub",
+            "activeloopai/deeplake",
           
             "Theano/Theano",
           
@@ -2189,7 +2189,7 @@
           
             "jcplaboratory/rashell",
           
-            "Abdur-rahmaanJ/greenBerry",
+            "Abdur-rahmaanJ/greenberry",
           
             "Abdur-rahmaanJ/honeybot",
           
@@ -2543,11 +2543,11 @@
           
             "bangoc123/learn-machine-learning-in-two-months",
           
-            "1milligram/csslayout",
+            "phuocng/csslayout",
           
             "nguyenquangminh0711/ruby_jard",
           
-            "1milligram/1loc",
+            "phuocng/1loc",
           
             "BambooEngine/ibus-bamboo"
           
@@ -2817,7 +2817,7 @@
           
             "treeverse/lakeFS",
           
-            "activeloopai/Hub",
+            "activeloopai/deeplake",
           
             "Netflix/metaflow",
           
@@ -2891,7 +2891,7 @@
           
             "newrelic/opensource-website",
           
-            "docker/docker.github.io",
+            "docker/docs",
           
             "ExpediaGroup/expediagroup.github.io",
           
@@ -3267,7 +3267,7 @@
           
             "lucee/Lucee",
           
-            "eclipse/golo-lang",
+            "eclipse-archived/golo-lang",
           
             "gosu-lang/gosu-lang",
           
@@ -3771,7 +3771,7 @@
           
             "ipython/ipython",
           
-            "ropensci/rplos",
+            "ropensci-archive/rplos",
           
             "LaurentRDC/scikit-ued",
           
