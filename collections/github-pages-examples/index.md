@@ -3,7 +3,7 @@ items:
  - twbs/bootstrap
  - jekyll/jekyll
  - github/government.github.com
- - electron/electronjs.org
+ - electron/electronjs.org-old
  - square/square.github.io
  - twitter/twitter.github.io
  - Netflix/netflix.github.com
