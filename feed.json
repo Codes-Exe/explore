@@ -17,7 +17,7 @@
           
             "facebookarchive/models",
           
-            "apache/incubator-mxnet",
+            "apache/mxnet",
           
             "deeplearning4j/deeplearning4j",
           
@@ -165,7 +165,7 @@
           
             "squizlabs/PHP_CodeSniffer",
           
-            "FriendsOfPHP/PHP-CS-Fixer",
+            "PHP-CS-Fixer/PHP-CS-Fixer",
           
             "psecio/parse",
           
@@ -875,7 +875,7 @@
           
             "github/government.github.com",
           
-            "electron/electronjs.org",
+            "electron/electronjs.org-old",
           
             "square/square.github.io",
           
@@ -2351,7 +2351,7 @@
           
             "passwall/passwall-web",
           
-            "pankod/refine",
+            "refinedev/refine",
           
             "pankod/superplate",
           
@@ -2385,7 +2385,7 @@
           
             "trailofbits/algo",
           
-            "uglide/RedisDesktopManager",
+            "RedisInsight/RedisDesktopManager",
           
             "trekhleb/homemade-machine-learning",
           
@@ -2585,7 +2585,7 @@
           
             "takanassyi/react-tutorial-ts-mui",
           
-            "mqckind/crowdmeeting",
+            "thepureinx000/crowdmeeting",
           
             "ERS-HCL/react-atomic-lib"
           
@@ -3551,8 +3551,6 @@
           
             "stevehoover/RISC-V_MYTH_Workshop",
           
-            "haogwb/starsea_riscv",
-          
             "OSCPU/NutShell",
           
             "riscvarchive/riscv-qemu",
@@ -3729,7 +3727,7 @@
           
             "pybuilder/pybuilder",
           
-            "klaussinani/signale",
+            "klaudiosinani/signale",
           
             "gitpod-io/gitpod",
           
