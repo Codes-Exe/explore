@@ -27,7 +27,6 @@ items:
  - newrelic/opensource-website
  - docker/docs
  - ExpediaGroup/expediagroup.github.io
- - wikimedia/wikimedia.github.io
  - fairfield-programming/fairfield-programming.github.io
 display_name: Open source organizations
 created_by: benbalter
